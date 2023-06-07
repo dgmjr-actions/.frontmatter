@@ -35,10 +35,5 @@
                 }
             }
         }
-    },
-    "definitions": {
-        "licenses": {
-            "$ref": ""
-        }
     }
 }
