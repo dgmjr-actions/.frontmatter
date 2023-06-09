@@ -3,7 +3,7 @@
   "$id": "https://github.com/dgmjr-io/dgmjr-io/.frontmatter/config/data/files/licenses.json",
   "id": "licenses",
   "title": "Licenses",
-  "file": "[[workspace]]/.frontmatter/content/data/types/license.json",
+  "file": "[[workspace]]/.frontmatter/database/licensesDb.json",
   "fileType": "json",
   "labelField": "name",
   "type": "license"
